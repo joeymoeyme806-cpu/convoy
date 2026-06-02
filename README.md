@@ -6,6 +6,8 @@ Pack your entire Python project and all its dependencies into a single, executab
 
 pip install \-e .
 
+or use setup.py
+
 ## **Usage**
 
 **1\. Create a convoy.toml in your project root:**
