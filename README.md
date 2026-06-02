@@ -4,7 +4,7 @@ Pack your entire Python project and all its dependencies into a single, executab
 
 ## **Install**
 
-pip install \-e .
+pip install . (if you use -e flag it will break because it uses paths and if you delete teh orginal foder it just breaks)
 
 
 ## **Usage**
