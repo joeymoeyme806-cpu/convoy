@@ -6,7 +6,7 @@ Pack your entire Python project and all its dependencies into a single, executab
 
 pip install \-e .
 
-or use [setup](http://setup.py) to install it package wise and also register it to windows as a right clickable project
+or use setup.py to install it package wise and also register it to windows as a right clickable project
 
 ## **Usage**
 
@@ -18,8 +18,6 @@ main \= "main.py"
 \[settings\]  
 compression \= 6  
 libs \= "pyside6, PIL, matplotlib"
-
-Alternatively, run convoy-settings to generate this configuration file via a GUI.
 
 **2\. Build:**
 
