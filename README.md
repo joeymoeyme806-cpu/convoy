@@ -5,7 +5,6 @@ Pack your entire Python project and all its dependencies into a single, executab
 ## **Install**
 
 pip install \-e .
-
 or use setup.py
 
 ## **Usage**
