@@ -5,7 +5,8 @@ Pack your entire Python project and all its dependencies into a single, executab
 ## **Install**
 
 pip install \-e .
-or use setup.py
+
+or use [setup](http://setup.py) to install it package wise and also register it to windows as a right clickable project
 
 ## **Usage**
 
