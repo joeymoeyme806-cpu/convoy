@@ -6,7 +6,6 @@ Pack your entire Python project and all its dependencies into a single, executab
 
 pip install \-e .
 
-or use setup.py to install it package wise and also register it to windows as a right clickable project
 
 ## **Usage**
 
@@ -30,7 +29,7 @@ convoy run myapp.convoy
 
 **4\. Settings GUI:**
 
-convoy-settings
+convoy-settings (note it save it with [[]] instead of [] and it breaks it)
 
 ## **Crucial Note on Dependencies & Sub-imports**
 
